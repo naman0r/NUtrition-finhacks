@@ -1,8 +1,8 @@
-# NUtrition: FinHacks Spring 2025
+# Main Readme
 
-Members:
+# Curerent to-dos
 
-- Som Shrivastava
-- Rishi Dilip
-- Arshay Patel
-- Naman Rusia
+1. Rename Pages and components
+2. start on back end web scrapping
+3. decide what technologies we need to use.
+4. host on netlify for a running trial.
